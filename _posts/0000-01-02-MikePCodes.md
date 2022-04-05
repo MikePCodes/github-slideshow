@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Feed the wolves, starve the coyotes!
 Use the left arrow to go back!
